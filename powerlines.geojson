@@ -2,6 +2,8288 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2025-05-09T14:09:02Z",
-  "features": []
+  "timestamp": "2025-05-11T20:07:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522035659",
+        "building": "transformer_tower",
+        "description": "Turmstation / Trafohaus",
+        "height": "5",
+        "historic": "yes",
+        "man_made": "tower",
+        "object:postcode": "65558",
+        "object:village": "Heistenbach",
+        "roof:shape": "flat",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.9760838,
+              50.3790101
+            ],
+            [
+              7.9761239,
+              50.3790438
+            ],
+            [
+              7.9760711,
+              50.3790693
+            ],
+            [
+              7.976031,
+              50.3790357
+            ],
+            [
+              7.9760838,
+              50.3790101
+            ]
+          ]
+        ]
+      },
+      "id": "way/522035659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687380248",
+        "building": "yes",
+        "height": "6",
+        "man_made": "tower",
+        "name": "Alter Trafoturm",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.7978131,
+              51.9129551
+            ],
+            [
+              10.7978201,
+              51.9129076
+            ],
+            [
+              10.7978715,
+              51.9129104
+            ],
+            [
+              10.7978645,
+              51.912958
+            ],
+            [
+              10.7978131,
+              51.9129551
+            ]
+          ]
+        ]
+      },
+      "id": "way/687380248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/59422200",
+        "design": "two-level",
+        "line_management": "transition",
+        "location:transition": "yes",
+        "material": "steel",
+        "power": "tower",
+        "ref": "12",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5141026,
+          52.6104336
+        ]
+      },
+      "id": "node/59422200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/59436351",
+        "design": "two-level",
+        "line_attachment": "anchor",
+        "line_management": "transition",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "ref": "7",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.476601,
+          52.6226413
+        ]
+      },
+      "id": "node/59436351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60459061",
+        "branch:type": "tap",
+        "line_attachment": "anchor",
+        "power": "tower",
+        "ref": "66",
+        "source": "survey",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4303509,
+          52.7844628
+        ]
+      },
+      "id": "node/60459061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/165291257",
+        "line_attachment": "suspension",
+        "power": "tower",
+        "source": "guggen gewesen und Yahoo",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7091346,
+          51.0429745
+        ]
+      },
+      "id": "node/165291257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/191125291",
+        "line_attachment": "anchor",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.71782,
+          51.0505436
+        ]
+      },
+      "id": "node/191125291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/211627147",
+        "colour": "grey",
+        "location:transition": "yes",
+        "material": "steel",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6771132,
+          51.0162054
+        ]
+      },
+      "id": "node/211627147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252468411",
+        "endpoint:overhead_line": "yes",
+        "endpoint:underground_cable": "yes",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5089218,
+          50.033288
+        ]
+      },
+      "id": "node/252468411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252468426",
+        "endpoint:overhead_line": "yes",
+        "endpoint:underground_cable": "yes",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5086839,
+          50.0333752
+        ]
+      },
+      "id": "node/252468426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252468441",
+        "endpoint:overhead_line": "yes",
+        "endpoint:underground_cable": "yes",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.508447,
+          50.0334955
+        ]
+      },
+      "id": "node/252468441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256120783",
+        "endpoint:overhead_line": "yes",
+        "endpoint:underground_cable": "yes",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "ref": "2329 M 7",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5182303,
+          50.0492658
+        ]
+      },
+      "id": "node/256120783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/258064176",
+        "branch:type": "split",
+        "line_attachment": "anchor",
+        "material": "steel",
+        "power": "tower",
+        "ref": "100",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.615872,
+          52.7420729
+        ]
+      },
+      "id": "node/258064176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262355959",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.706353,
+          52.1262053
+        ]
+      },
+      "id": "node/262355959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266339969",
+        "material": "steel",
+        "operator": "TenneT",
+        "power": "tower",
+        "ref": "87N",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5177835,
+          53.2033638
+        ]
+      },
+      "id": "node/266339969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271396609",
+        "location:transition": "yes",
+        "power": "tower",
+        "ref": "1a",
+        "source_ref": "survey",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1085187,
+          48.6635193
+        ]
+      },
+      "id": "node/271396609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276885755",
+        "design": "two-level",
+        "line_attachment": "anchor",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "ref": "29",
+        "source": "survey",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4676751,
+          52.631732
+        ]
+      },
+      "id": "node/276885755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308244348",
+        "line_attachment": "anchor",
+        "line_management": "transition",
+        "location:transition": "yes",
+        "material": "steel",
+        "power": "tower",
+        "ref": "1",
+        "source": "survey",
+        "structure": "lattice",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3888631,
+          52.0283568
+        ]
+      },
+      "id": "node/308244348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/314390309",
+        "power": "tower",
+        "seamark:landmark:category": "mast",
+        "seamark:landmark:conspicuity": "conspicuous",
+        "seamark:source": "WSV",
+        "seamark:type": "landmark",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9269435,
+          52.3279775
+        ]
+      },
+      "id": "node/314390309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/322182236",
+        "branch:type": "tap",
+        "line_attachment": "anchor",
+        "material": "steel",
+        "power": "tower",
+        "ref": "17",
+        "source": "survey",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2659606,
+          52.9997246
+        ]
+      },
+      "id": "node/322182236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330695691",
+        "design": "one-level",
+        "material": "steel",
+        "power": "tower",
+        "source": "Bing",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0341517,
+          50.6094075
+        ]
+      },
+      "id": "node/330695691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335749014",
+        "power": "portal",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5453251,
+          49.7663767
+        ]
+      },
+      "id": "node/335749014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360977764",
+        "power": "tower",
+        "ref": "Anlage 309, Mast 1261",
+        "source": "survey;image",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1502275,
+          48.4943126
+        ]
+      },
+      "id": "node/360977764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360978147",
+        "power": "tower",
+        "ref": "Anlage 527, Mast 1",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1516634,
+          48.4945418
+        ]
+      },
+      "id": "node/360978147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368242871",
+        "branch:type": "split",
+        "description": "mit Abzweigung zu 20kV-Erdkabel",
+        "design": "one-level",
+        "line_attachment": "anchor",
+        "line_management": "branch",
+        "location:transition": "yes",
+        "material": "steel",
+        "operator": "Netze BW GmbH",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4671351,
+          49.0266677
+        ]
+      },
+      "id": "node/368242871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368242888",
+        "branch:type": "loop",
+        "description": "Anlage 1180 Mast 040",
+        "design": "two-level",
+        "line_attachment": "anchor",
+        "material": "steel",
+        "operator": "Netze BW GmbH",
+        "power": "tower",
+        "ref": "040",
+        "ref:swk": "M 20080",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5179833,
+          49.0113479
+        ]
+      },
+      "id": "node/368242888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368249349",
+        "branch:type": "split",
+        "description": "Anlage 1210 Mast 054",
+        "design": "four-level",
+        "design:incomplete": "yes",
+        "design:note": "obere Traverse leer",
+        "line_attachment": "anchor",
+        "material": "steel",
+        "operator": "Netze BW GmbH",
+        "power": "tower",
+        "ref": "054",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4487311,
+          49.007455
+        ]
+      },
+      "id": "node/368249349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368249393",
+        "branch:type": "split",
+        "design": "one-level",
+        "material": "steel",
+        "operator": "Netze BW GmbH",
+        "power": "tower",
+        "ref": "089",
+        "source:ref": "interpolation",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4815681,
+          49.0690232
+        ]
+      },
+      "id": "node/368249393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368291604",
+        "branch:type": "split",
+        "description": "Anlage 6160 Mast 001",
+        "power": "tower",
+        "ref": "001",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4281544,
+          48.9619193
+        ]
+      },
+      "id": "node/368291604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371250503",
+        "branch:type": "split",
+        "line_attachment": "anchor",
+        "power": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4286507,
+          48.9598157
+        ]
+      },
+      "id": "node/371250503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/374059294",
+        "branch:type": "loop",
+        "design": "three-level",
+        "line_attachment": "anchor",
+        "material": "steel",
+        "operator": "TransnetBW GmbH",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3455755,
+          49.0661181
+        ]
+      },
+      "id": "node/374059294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/374059433",
+        "branch:type": "split",
+        "design": "three-level",
+        "line_attachment": "anchor",
+        "material": "steel",
+        "operator": "TransnetBW GmbH",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3235227,
+          49.0435287
+        ]
+      },
+      "id": "node/374059433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/374059788",
+        "branch:type": "split;cross",
+        "material": "steel",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.321627,
+          49.0416916
+        ]
+      },
+      "id": "node/374059788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385823334",
+        "power": "tower",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5483839,
+          49.7686936
+        ]
+      },
+      "id": "node/385823334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413305025",
+        "location:transition": "yes",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "ref": "Anlage 13 Mast 7 1",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9822255,
+          48.4292692
+        ]
+      },
+      "id": "node/413305025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/437604718",
+        "power": "tower",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3539939,
+          53.6370249
+        ]
+      },
+      "id": "node/437604718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448871715",
+        "power": "tower",
+        "ref": "60",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.321231,
+          52.3186818
+        ]
+      },
+      "id": "node/448871715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471782360",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7129598,
+          48.2774102
+        ]
+      },
+      "id": "node/471782360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/497073667",
+        "branch:type": "split",
+        "demolished:power": "tower",
+        "design": "two-level",
+        "line_attachment": "anchor",
+        "line_management": "split",
+        "material": "steel",
+        "operator": "TransnetBW GmbH",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4459133,
+          49.2486161
+        ]
+      },
+      "id": "node/497073667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/536635182",
+        "line_attachment": "anchor",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "ref": "1520 M 1259",
+        "source": "survey",
+        "structure": "lattice",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9283972,
+          51.9794892
+        ]
+      },
+      "id": "node/536635182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/536635186",
+        "location:transition": "yes",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "ref": "1512 M 1008",
+        "source": "survey",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.935035,
+          51.9901195
+        ]
+      },
+      "id": "node/536635186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/593993256",
+        "branch:type": "split",
+        "material": "steel",
+        "operator": "Netze BW GmbH",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5128048,
+          49.295615
+        ]
+      },
+      "id": "node/593993256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599261386",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2661094,
+          48.2910475
+        ]
+      },
+      "id": "node/599261386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/618683876",
+        "power": "tower",
+        "ref": "90",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3245549,
+          52.3884185
+        ]
+      },
+      "id": "node/618683876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666892352",
+        "branch:type": "split",
+        "line_attachment": "anchor",
+        "material": "steel",
+        "power": "tower",
+        "ref": "52",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.316386,
+          52.3506012
+        ]
+      },
+      "id": "node/666892352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/679419270",
+        "note": "Übergang in Erdkabel",
+        "power": "tower",
+        "ref": "1",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6257401,
+          49.2910023
+        ]
+      },
+      "id": "node/679419270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/700183679",
+        "endpoint:overhead_line": "yes",
+        "endpoint:underground_cable": "yes",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "ref": "2329 M 6",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5181426,
+          50.0489823
+        ]
+      },
+      "id": "node/700183679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/792335871",
+        "description": "Maststation Bachfeld 05 - Katzberger Straße",
+        "material": "steel",
+        "operator": "TEN",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "BAF05",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.979469,
+          50.405338
+        ]
+      },
+      "id": "node/792335871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/819857857",
+        "branch:type": "tap",
+        "power": "portal",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9991765,
+          51.2024881
+        ]
+      },
+      "id": "node/819857857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823876956",
+        "name": "Station Hübenthal",
+        "operator": "E.on",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8933469,
+          51.069788
+        ]
+      },
+      "id": "node/823876956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/843462909",
+        "description": "KAM mit Schalter",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1437399,
+          50.6439596
+        ]
+      },
+      "id": "node/843462909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/849959626",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7237294,
+          48.3636412
+        ]
+      },
+      "id": "node/849959626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895793891",
+        "power": "tower",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0731058,
+          47.8618103
+        ]
+      },
+      "id": "node/895793891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022474738",
+        "design": "donau",
+        "power": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3322302,
+          54.7210228
+        ]
+      },
+      "id": "node/1022474738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1027237637",
+        "location:transition": "yes",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0517136,
+          48.2217265
+        ]
+      },
+      "id": "node/1027237637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1027891949",
+        "design": "three-level",
+        "power": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3467088,
+          52.5864104
+        ]
+      },
+      "id": "node/1027891949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069898066",
+        "power": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7647086,
+          50.529389
+        ]
+      },
+      "id": "node/1069898066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1081983927",
+        "design": "donau;one-level",
+        "line_management": "anchor",
+        "material": "metal",
+        "power": "tower",
+        "ref": "1",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5313836,
+          50.0320453
+        ]
+      },
+      "id": "node/1081983927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1098283528",
+        "pole": "transition",
+        "power": "tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2003838,
+          50.3501044
+        ]
+      },
+      "id": "node/1098283528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1132863900",
+        "line_attachment": "anchor",
+        "power": "tower",
+        "ref": "70",
+        "source": "survey",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7303075,
+          51.1836732
+        ]
+      },
+      "id": "node/1132863900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1163980696",
+        "line_attachment": "anchor",
+        "power": "tower",
+        "ref": "0052 M 148",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2315356,
+          52.3170672
+        ]
+      },
+      "id": "node/1163980696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1187299070",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4033711,
+          54.0448507
+        ]
+      },
+      "id": "node/1187299070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1187299308",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3901919,
+          54.0419946
+        ]
+      },
+      "id": "node/1187299308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236289508",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9748329,
+          50.4488779
+        ]
+      },
+      "id": "node/1236289508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236311598",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.974596,
+          50.448837
+        ]
+      },
+      "id": "node/1236311598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1257027659",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0120535,
+          50.3872505
+        ]
+      },
+      "id": "node/1257027659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1257027689",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0112743,
+          50.3874491
+        ]
+      },
+      "id": "node/1257027689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1260967268",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9847057,
+          50.3558655
+        ]
+      },
+      "id": "node/1260967268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1271551140",
+        "material": "concrete",
+        "note": "Beschriftung 'Bergäcker'",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0992801,
+          49.2068685
+        ]
+      },
+      "id": "node/1271551140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1377564678",
+        "power": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2066369,
+          52.3503791
+        ]
+      },
+      "id": "node/1377564678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1383639210",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0435689,
+          53.731525
+        ]
+      },
+      "id": "node/1383639210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1383639243",
+        "frequency": "50",
+        "name": "Wilstedt 012 Schleswig-Holstein-Straße",
+        "operator": "Schleswig-Holstein Netz AG",
+        "pole": "transition",
+        "power": "pole",
+        "source": "Bing",
+        "transformer": "distribution",
+        "voltage": "11000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0268188,
+          53.7264906
+        ]
+      },
+      "id": "node/1383639243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430624757",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9149915,
+          50.4528112
+        ]
+      },
+      "id": "node/1430624757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1452523823",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.234018,
+          50.674962
+        ]
+      },
+      "id": "node/1452523823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1457131308",
+        "description": "Kabel=Gebersdorf Mitte; FL=Lippelsdorf 01",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2657711,
+          50.5301204
+        ]
+      },
+      "id": "node/1457131308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1490531356",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6254001,
+          52.5617778
+        ]
+      },
+      "id": "node/1490531356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1507527065",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6395031,
+          50.8432946
+        ]
+      },
+      "id": "node/1507527065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607602154",
+        "material": "concrete",
+        "power": "pole",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.03668,
+          50.1615228
+        ]
+      },
+      "id": "node/1607602154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1613502626",
+        "location:transition": "yes",
+        "power": "tower",
+        "ref": "1133 M 24",
+        "source": "Mastschild",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2707186,
+          48.9995832
+        ]
+      },
+      "id": "node/1613502626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1620825122",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.207943,
+          50.3454741
+        ]
+      },
+      "id": "node/1620825122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1620825124",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2080288,
+          50.3455323
+        ]
+      },
+      "id": "node/1620825124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623788505",
+        "colour": "grey",
+        "image": "http://commons.wikimedia.org/wiki/File:2018_110_kV-Endmast_mit_Doppel%C3%BCbergang.jpg",
+        "location:transition": "yes",
+        "material": "metal",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6582804,
+          51.0005888
+        ]
+      },
+      "id": "node/1623788505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623788533",
+        "description:de": "Endmast / End of overhead line",
+        "location:transition": "yes",
+        "material": "steel",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6749262,
+          51.0124199
+        ]
+      },
+      "id": "node/1623788533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1649181412",
+        "location:transition": "yes",
+        "power": "tower",
+        "source": "high res aerial images",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9647865,
+          52.1653021
+        ]
+      },
+      "id": "node/1649181412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1653539420",
+        "operator": "TransnetBW GmbH",
+        "operator:wikidata": "Q1672772",
+        "operator:wikipedia": "de:TransnetBW",
+        "power": "tower",
+        "ref": "5220 019",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5477432,
+          49.435467
+        ]
+      },
+      "id": "node/1653539420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1653539453",
+        "description": "Anlage 5100 Mast 164",
+        "operator": "TransnetBW GmbH",
+        "operator:wikidata": "Q1672772",
+        "operator:wikipedia": "de:TransnetBW",
+        "power": "tower",
+        "ref": "164",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.546196,
+          49.4355424
+        ]
+      },
+      "id": "node/1653539453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1653539456",
+        "operator": "TransnetBW GmbH",
+        "operator:wikidata": "Q1672772",
+        "operator:wikipedia": "de:TransnetBW",
+        "power": "tower",
+        "ref": "5220 018",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5459103,
+          49.4365006
+        ]
+      },
+      "id": "node/1653539456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656885496",
+        "power": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.295656,
+          49.529997
+        ]
+      },
+      "id": "node/1656885496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1680297052",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.991436,
+          50.400642
+        ]
+      },
+      "id": "node/1680297052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1680879105",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7200719,
+          53.7833387
+        ]
+      },
+      "id": "node/1680879105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1680879106",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7199955,
+          53.7834141
+        ]
+      },
+      "id": "node/1680879106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1695050501",
+        "location:transition": "yes",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9446025,
+          48.427864
+        ]
+      },
+      "id": "node/1695050501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1695405935",
+        "design": "two-level",
+        "design:de": "Zweiebenenmast",
+        "fixme": "branch:type",
+        "material": "steel",
+        "power": "tower",
+        "ref": "54",
+        "source:tower:type": "local_knowledge;bing",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8259721,
+          50.6568444
+        ]
+      },
+      "id": "node/1695405935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696387809",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.980961,
+          50.404005
+        ]
+      },
+      "id": "node/1696387809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719869175",
+        "colour": "grey",
+        "design": "one-level",
+        "material": "steel",
+        "note": "Mast Leitung zwischen Eula und Sermuth",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7604992,
+          51.1576424
+        ]
+      },
+      "id": "node/1719869175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1744055709",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5124889,
+          49.586681
+        ]
+      },
+      "id": "node/1744055709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1799856758",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.999796,
+          50.383571
+        ]
+      },
+      "id": "node/1799856758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1839131235",
+        "design": "two-level",
+        "line_attachment": "anchor",
+        "material": "steel",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5260202,
+          50.7706766
+        ]
+      },
+      "id": "node/1839131235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1839880831",
+        "design": "one-level",
+        "material": "steel",
+        "power": "tower",
+        "source:design": "Bing",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9892291,
+          50.594537
+        ]
+      },
+      "id": "node/1839880831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1850439489",
+        "design": "one-level",
+        "frequency": "50",
+        "line_attachment": "anchor",
+        "line_management": "transition",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "operator": "MITNETZ Strom",
+        "operator:wikidata": "Q56199578",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1117191,
+          51.5662852
+        ]
+      },
+      "id": "node/1850439489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1853512307",
+        "design": "one-level",
+        "frequency": "50",
+        "line_attachment": "anchor",
+        "line_management": "transition",
+        "location:transition": "yes",
+        "material": "steel",
+        "note": "Endmast / End of overhead line",
+        "operator": "MITNETZ Strom",
+        "operator:wikidata": "Q56199578",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1307738,
+          51.5599001
+        ]
+      },
+      "id": "node/1853512307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1856292854",
+        "design": "h-frame",
+        "line_attachment": "anchor",
+        "power": "tower",
+        "ref": "105",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5877277,
+          51.8855959
+        ]
+      },
+      "id": "node/1856292854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858325910",
+        "design": "one-level",
+        "material": "steel",
+        "power": "tower",
+        "source": "Bing",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0215343,
+          50.6336007
+        ]
+      },
+      "id": "node/1858325910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1882406500",
+        "design": "donau",
+        "power": "tower",
+        "source": "Bing",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.241251,
+          54.6782106
+        ]
+      },
+      "id": "node/1882406500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1949229265",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8600763,
+          51.0501593
+        ]
+      },
+      "id": "node/1949229265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2009762969",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8235729,
+          51.1313294
+        ]
+      },
+      "id": "node/2009762969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2022049295",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2071022,
+          49.6971842
+        ]
+      },
+      "id": "node/2022049295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030389133",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8509028,
+          50.4737572
+        ]
+      },
+      "id": "node/2030389133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030389138",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8488129,
+          50.474173
+        ]
+      },
+      "id": "node/2030389138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2068256112",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2254144,
+          50.5277544
+        ]
+      },
+      "id": "node/2068256112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2068256126",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2314651,
+          50.5308001
+        ]
+      },
+      "id": "node/2068256126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2074783736",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3206893,
+          50.9273035
+        ]
+      },
+      "id": "node/2074783736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2084620601",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.318721,
+          50.602982
+        ]
+      },
+      "id": "node/2084620601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2084620863",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3836012,
+          50.6233873
+        ]
+      },
+      "id": "node/2084620863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2084620866",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.383568,
+          50.6234449
+        ]
+      },
+      "id": "node/2084620866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2084704535",
+        "description": "MSFL aus beiden Richtungen wird als MSK weitergeführt",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.287962,
+          50.607584
+        ]
+      },
+      "id": "node/2084704535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2084704542",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.288007,
+          50.607674
+        ]
+      },
+      "id": "node/2084704542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2084740621",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3084858,
+          50.5968097
+        ]
+      },
+      "id": "node/2084740621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2138654222",
+        "colour": "gray",
+        "design": "one-level",
+        "line_attachment": "anchor",
+        "location:transition": "yes",
+        "material": "metal",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9366499,
+          49.8636735
+        ]
+      },
+      "id": "node/2138654222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2139169070",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6176249,
+          48.2094856
+        ]
+      },
+      "id": "node/2139169070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2139939632",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5581783,
+          48.2099351
+        ]
+      },
+      "id": "node/2139939632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140687567",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7492384,
+          48.190836
+        ]
+      },
+      "id": "node/2140687567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140687602",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7534242,
+          48.1985314
+        ]
+      },
+      "id": "node/2140687602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140687741",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7550555,
+          48.217413
+        ]
+      },
+      "id": "node/2140687741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140687746",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7549118,
+          48.2174211
+        ]
+      },
+      "id": "node/2140687746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2144851872",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2487812,
+          50.5435309
+        ]
+      },
+      "id": "node/2144851872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2167347741",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7102367,
+          48.3833879
+        ]
+      },
+      "id": "node/2167347741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2167347809",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6977816,
+          48.3866445
+        ]
+      },
+      "id": "node/2167347809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2194025081",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5931041,
+          52.5066098
+        ]
+      },
+      "id": "node/2194025081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197083443",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9183439,
+          52.5524735
+        ]
+      },
+      "id": "node/2197083443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2216346906",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7325042,
+          49.2201275
+        ]
+      },
+      "id": "node/2216346906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268630633",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8856234,
+          52.5837689
+        ]
+      },
+      "id": "node/2268630633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2274924106",
+        "description": "Übergang zum Erdkabel",
+        "power": "tower",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2318021,
+          50.5908979
+        ]
+      },
+      "id": "node/2274924106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2282187882",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6796293,
+          52.6768708
+        ]
+      },
+      "id": "node/2282187882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288580063",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0895779,
+          48.9835446
+        ]
+      },
+      "id": "node/2288580063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2299688274",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5263261,
+          50.6763525
+        ]
+      },
+      "id": "node/2299688274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301130154",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "Wienecke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8937662,
+          52.5953742
+        ]
+      },
+      "id": "node/2301130154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2306315295",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6523474,
+          52.6406277
+        ]
+      },
+      "id": "node/2306315295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2320338958",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0966454,
+          49.2056785
+        ]
+      },
+      "id": "node/2320338958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2325457788",
+        "note": "lattice tower; wind power goes to the 3 northern cables",
+        "pole": "transition",
+        "power": "pole",
+        "switch": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2719787,
+          49.3815957
+        ]
+      },
+      "id": "node/2325457788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2346088199",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4044616,
+          51.1362081
+        ]
+      },
+      "id": "node/2346088199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378979812",
+        "frequency": "50",
+        "material": "steel",
+        "power": "pole",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7901824,
+          49.045409
+        ]
+      },
+      "id": "node/2378979812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408238679",
+        "description": "MSK zur Station Katzhütte 20 (Masserbrück)",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9937043,
+          50.5497886
+        ]
+      },
+      "id": "node/2408238679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2430804310",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5938006,
+          48.1964194
+        ]
+      },
+      "id": "node/2430804310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440484175",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7860731,
+          48.2658255
+        ]
+      },
+      "id": "node/2440484175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440610204",
+        "location:transition": "yes",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4391009,
+          50.6202292
+        ]
+      },
+      "id": "node/2440610204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440610205",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4380127,
+          50.6203393
+        ]
+      },
+      "id": "node/2440610205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440610206",
+        "location:transition": "yes",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4364238,
+          50.6204842
+        ]
+      },
+      "id": "node/2440610206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2443159389",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8076547,
+          48.2326287
+        ]
+      },
+      "id": "node/2443159389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2443159391",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8107231,
+          48.2327058
+        ]
+      },
+      "id": "node/2443159391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446122381",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7299173,
+          48.2163463
+        ]
+      },
+      "id": "node/2446122381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450811439",
+        "line_management": "termination",
+        "material": "steel",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2429932,
+          49.4655414
+        ]
+      },
+      "id": "node/2450811439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450811441",
+        "line_management": "termination",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2430033,
+          49.4655941
+        ]
+      },
+      "id": "node/2450811441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450811521",
+        "line_management": "termination",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2240426,
+          49.468559
+        ]
+      },
+      "id": "node/2450811521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450811527",
+        "line_management": "termination",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2240662,
+          49.4686094
+        ]
+      },
+      "id": "node/2450811527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450811547",
+        "line_management": "termination",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2218693,
+          49.468847
+        ]
+      },
+      "id": "node/2450811547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450811553",
+        "line_management": "termination",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2218762,
+          49.4689011
+        ]
+      },
+      "id": "node/2450811553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450811574",
+        "line_management": "termination",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2219252,
+          49.4691346
+        ]
+      },
+      "id": "node/2450811574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450811590",
+        "line_management": "termination",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.221969,
+          49.4692256
+        ]
+      },
+      "id": "node/2450811590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2455443755",
+        "colour": "grey",
+        "design": "one-level",
+        "material": "steel",
+        "pole": "transition",
+        "pole:type": "anchor",
+        "power": "pole",
+        "structure": "lattice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6643398,
+          52.4180214
+        ]
+      },
+      "id": "node/2455443755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456841148",
+        "note:de": "Endmast",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "Station Oberbernhards"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9037499,
+          50.5560031
+        ]
+      },
+      "id": "node/2456841148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2473135805",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.637877,
+          52.4894019
+        ]
+      },
+      "id": "node/2473135805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2473315981",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2938204,
+          50.2371356
+        ]
+      },
+      "id": "node/2473315981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2473315983",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.293224,
+          50.2376214
+        ]
+      },
+      "id": "node/2473315983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2486796873",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9100195,
+          50.4341424
+        ]
+      },
+      "id": "node/2486796873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2489996112",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7647974,
+          52.2954605
+        ]
+      },
+      "id": "node/2489996112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499265819",
+        "design": "donau",
+        "power": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2361549,
+          54.7165886
+        ]
+      },
+      "id": "node/2499265819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2531225410",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1293272,
+          50.6561
+        ]
+      },
+      "id": "node/2531225410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2579744432",
+        "pole": "transition",
+        "power": "pole",
+        "source:position": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0912406,
+          49.2107617
+        ]
+      },
+      "id": "node/2579744432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2582699979",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2220408,
+          50.5285477
+        ]
+      },
+      "id": "node/2582699979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2582717117",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2243595,
+          50.5218061
+        ]
+      },
+      "id": "node/2582717117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2582721626",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2306401,
+          50.5310645
+        ]
+      },
+      "id": "node/2582721626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2582721628",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2298043,
+          50.5313526
+        ]
+      },
+      "id": "node/2582721628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2582727441",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2923442,
+          50.5259289
+        ]
+      },
+      "id": "node/2582727441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2582727446",
+        "description": "Maststation Gebersdorf 02 - Unterer Ort",
+        "material": "steel",
+        "operator": "TEN",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "GEB02",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2820175,
+          50.5278767
+        ]
+      },
+      "id": "node/2582727446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2585265924",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7318194,
+          48.2629381
+        ]
+      },
+      "id": "node/2585265924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2604973085",
+        "power": "tower",
+        "tower": "air_to_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1513114,
+          50.9533681
+        ]
+      },
+      "id": "node/2604973085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2609260506",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6109968,
+          52.6214785
+        ]
+      },
+      "id": "node/2609260506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630279448",
+        "description": "Maststation Wildenspring 03 - Friedhof",
+        "operator": "Thüringer_Energienetze",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "WIV03",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.047721,
+          50.599057
+        ]
+      },
+      "id": "node/2630279448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630279473",
+        "location:transition": "yes",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0297362,
+          50.6011993
+        ]
+      },
+      "id": "node/2630279473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630279475",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.029751,
+          50.6014045
+        ]
+      },
+      "id": "node/2630279475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630279489",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.022599,
+          50.6042132
+        ]
+      },
+      "id": "node/2630279489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630279492",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0224535,
+          50.6043062
+        ]
+      },
+      "id": "node/2630279492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634401577",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.18605,
+          50.5398
+        ]
+      },
+      "id": "node/2634401577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634401579",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.186123,
+          50.539923
+        ]
+      },
+      "id": "node/2634401579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634401580",
+        "description": "Maststation Lichte 11 - Massermühle",
+        "operator": "TEN",
+        "pole": "transition",
+        "power": "pole",
+        "rating": "100 kVA",
+        "ref": "LIH11",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.176357,
+          50.546548
+        ]
+      },
+      "id": "node/2634401580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634401645",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1931412,
+          50.5942327
+        ]
+      },
+      "id": "node/2634401645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2638285691",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.079593,
+          50.582262
+        ]
+      },
+      "id": "node/2638285691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2638285848",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.088122,
+          50.605471
+        ]
+      },
+      "id": "node/2638285848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2640179391",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.066619,
+          50.486421
+        ]
+      },
+      "id": "node/2640179391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2642688576",
+        "description": "Maststation Lichte 12 - Friedrichgrund",
+        "operator": "TEN",
+        "pole": "transition",
+        "power": "pole",
+        "rating": "100 kVA",
+        "ref": "LIH12",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.167601,
+          50.552344
+        ]
+      },
+      "id": "node/2642688576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2663828732",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.060583,
+          50.561663
+        ]
+      },
+      "id": "node/2663828732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2663830125",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.175651,
+          50.60585
+        ]
+      },
+      "id": "node/2663830125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2667570744",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.010897,
+          50.522122
+        ]
+      },
+      "id": "node/2667570744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2667570751",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.009312,
+          50.523093
+        ]
+      },
+      "id": "node/2667570751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2667570762",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007152,
+          50.524084
+        ]
+      },
+      "id": "node/2667570762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2670638364",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.073297,
+          50.489796
+        ]
+      },
+      "id": "node/2670638364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2672005845",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.11139,
+          50.501733
+        ]
+      },
+      "id": "node/2672005845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2672005975",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.993099,
+          50.536382
+        ]
+      },
+      "id": "node/2672005975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2685455881",
+        "material": "concrete",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2906763,
+          50.2407147
+        ]
+      },
+      "id": "node/2685455881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687318082",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.030702,
+          50.5451142
+        ]
+      },
+      "id": "node/2687318082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687318085",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.046138,
+          50.548655
+        ]
+      },
+      "id": "node/2687318085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687318099",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.051444,
+          50.55299
+        ]
+      },
+      "id": "node/2687318099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700413736",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6582739,
+          53.7574375
+        ]
+      },
+      "id": "node/2700413736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2702625694",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2252267,
+          50.5326633
+        ]
+      },
+      "id": "node/2702625694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2811495467",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.996531,
+          50.624425
+        ]
+      },
+      "id": "node/2811495467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2813126421",
+        "line_management": "transition",
+        "location:transition": "yes",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "ref": "258",
+        "source": "DOP_LVA_BY_01",
+        "source:ref": "survey",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1380987,
+          48.9948954
+        ]
+      },
+      "id": "node/2813126421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2813127226",
+        "line_management": "transition",
+        "location:transition": "yes",
+        "note": "Endmast / End of overhead line",
+        "power": "tower",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1293444,
+          48.9862202
+        ]
+      },
+      "id": "node/2813127226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814084873",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.030019,
+          50.544342
+        ]
+      },
+      "id": "node/2814084873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901367408",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2407708,
+          50.9090996
+        ]
+      },
+      "id": "node/2901367408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901367413",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2408157,
+          50.9102614
+        ]
+      },
+      "id": "node/2901367413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901367415",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2431452,
+          50.9120809
+        ]
+      },
+      "id": "node/2901367415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2902295259",
+        "material": "metal",
+        "operator": "GDF SUEZ",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7219013,
+          52.6472503
+        ]
+      },
+      "id": "node/2902295259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2902295265",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154406,
+          52.6529703
+        ]
+      },
+      "id": "node/2902295265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2902295267",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7134336,
+          52.6547453
+        ]
+      },
+      "id": "node/2902295267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2910870917",
+        "material": "metal",
+        "operator": "GDF SUEZ",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7260414,
+          52.6633043
+        ]
+      },
+      "id": "node/2910870917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2933941493",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34741,
+          53.3910433
+        ]
+      },
+      "id": "node/2933941493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2934692205",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3502463,
+          53.3944456
+        ]
+      },
+      "id": "node/2934692205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2949000122",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2273743,
+          50.9016153
+        ]
+      },
+      "id": "node/2949000122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2951025232",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3532997,
+          53.3750763
+        ]
+      },
+      "id": "node/2951025232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2951045892",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3277011,
+          53.3735466
+        ]
+      },
+      "id": "node/2951045892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2951081422",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.334364,
+          53.3703181
+        ]
+      },
+      "id": "node/2951081422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2952420290",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3458161,
+          53.4029697
+        ]
+      },
+      "id": "node/2952420290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2952454221",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3562497,
+          53.4142227
+        ]
+      },
+      "id": "node/2952454221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2961763109",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.915073,
+          49.231775
+        ]
+      },
+      "id": "node/2961763109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2961990985",
+        "man_made": "pole",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7352415,
+          47.9260421
+        ]
+      },
+      "id": "node/2961990985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986501859",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0519065,
+          50.5542186
+        ]
+      },
+      "id": "node/2986501859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986501864",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.058319,
+          50.558617
+        ]
+      },
+      "id": "node/2986501864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2999538214",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9305946,
+          52.5666733
+        ]
+      },
+      "id": "node/2999538214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3007537378",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2003515,
+          52.1754809
+        ]
+      },
+      "id": "node/3007537378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3102516971",
+        "description": "MSK: Piesau 03 - Glaswerk",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.210225,
+          50.512746
+        ]
+      },
+      "id": "node/3102516971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3102516984",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2224616,
+          50.520413
+        ]
+      },
+      "id": "node/3102516984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3102516985",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.222391,
+          50.520449
+        ]
+      },
+      "id": "node/3102516985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3108789459",
+        "colour": "grey",
+        "material": "steel",
+        "note": "Mast Leitung zwischen Eula und Sermuth",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7643451,
+          51.1556109
+        ]
+      },
+      "id": "node/3108789459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3149355843",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.665174,
+          49.2330413
+        ]
+      },
+      "id": "node/3149355843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3151433321",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0331567,
+          50.3900886
+        ]
+      },
+      "id": "node/3151433321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3214342597",
+        "height": "6",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.490115,
+          49.2873217
+        ]
+      },
+      "id": "node/3214342597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3214342598",
+        "height": "6",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4902038,
+          49.2875032
+        ]
+      },
+      "id": "node/3214342598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3214342608",
+        "height": "6",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4910893,
+          49.2892637
+        ]
+      },
+      "id": "node/3214342608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3220010376",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.618228,
+          48.2396794
+        ]
+      },
+      "id": "node/3220010376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3221907984",
+        "height": "6",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4906587,
+          49.2893368
+        ]
+      },
+      "id": "node/3221907984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3233994979",
+        "pole": "transition",
+        "power": "catenary_mast",
+        "switch": "pylon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.497677,
+          49.222171
+        ]
+      },
+      "id": "node/3233994979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3233994980",
+        "pole": "transition",
+        "power": "catenary_mast",
+        "switch": "pylon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4973889,
+          49.2222337
+        ]
+      },
+      "id": "node/3233994980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3236338822",
+        "pole": "transition",
+        "power": "catenary_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4946394,
+          49.1851963
+        ]
+      },
+      "id": "node/3236338822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3236338825",
+        "pole": "transition",
+        "power": "catenary_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4948623,
+          49.186533
+        ]
+      },
+      "id": "node/3236338825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3236338854",
+        "pole": "transition",
+        "power": "catenary_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4983469,
+          49.204981
+        ]
+      },
+      "id": "node/3236338854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3236338855",
+        "pole": "transition",
+        "power": "catenary_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4984257,
+          49.2053848
+        ]
+      },
+      "id": "node/3236338855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238263821",
+        "branch:type": "split",
+        "power": "catenary_mast",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4937261,
+          49.1789024
+        ]
+      },
+      "id": "node/3238263821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238267080",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6941253,
+          48.2632472
+        ]
+      },
+      "id": "node/3238267080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238297200",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6080602,
+          48.2399927
+        ]
+      },
+      "id": "node/3238297200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238344051",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7126716,
+          48.3157202
+        ]
+      },
+      "id": "node/3238344051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238369889",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7613551,
+          48.2777813
+        ]
+      },
+      "id": "node/3238369889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3241284390",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6079103,
+          48.1996934
+        ]
+      },
+      "id": "node/3241284390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3245914567",
+        "pole": "transition",
+        "power": "catenary_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4972934,
+          49.2221358
+        ]
+      },
+      "id": "node/3245914567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3248319114",
+        "power": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.061804,
+          52.4963396
+        ]
+      },
+      "id": "node/3248319114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3249809353",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2939827,
+          51.2675657
+        ]
+      },
+      "id": "node/3249809353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252354881",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4335387,
+          51.1229233
+        ]
+      },
+      "id": "node/3252354881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252805061",
+        "line_attachment": "anchor",
+        "power": "tower",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.692873,
+          51.207036
+        ]
+      },
+      "id": "node/3252805061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3263078875",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2059967,
+          49.1265345
+        ]
+      },
+      "id": "node/3263078875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3263078888",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2081241,
+          49.1291335
+        ]
+      },
+      "id": "node/3263078888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3263078908",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1950421,
+          49.1315839
+        ]
+      },
+      "id": "node/3263078908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265228940",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9882988,
+          50.4431467
+        ]
+      },
+      "id": "node/3265228940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269584965",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0823125,
+          53.7618677
+        ]
+      },
+      "id": "node/3269584965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3270311863",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5426517,
+          52.5360633
+        ]
+      },
+      "id": "node/3270311863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3274176433",
+        "fixme": "Position nicht genau bekannt",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3733627,
+          51.1169985
+        ]
+      },
+      "id": "node/3274176433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3279097414",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.933758,
+          50.581013
+        ]
+      },
+      "id": "node/3279097414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3282512361",
+        "design": "one-level",
+        "material": "steel",
+        "power": "pole",
+        "ref": "1",
+        "structure": "tubular",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1667439,
+          47.9126184
+        ]
+      },
+      "id": "node/3282512361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3292924686",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.968783,
+          50.451676
+        ]
+      },
+      "id": "node/3292924686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3292924687",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.968875,
+          50.451727
+        ]
+      },
+      "id": "node/3292924687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3292924688",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.959452,
+          50.451908
+        ]
+      },
+      "id": "node/3292924688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323521394",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743556,
+          50.495088
+        ]
+      },
+      "id": "node/3323521394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324140043",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.862,
+          50.461059
+        ]
+      },
+      "id": "node/3324140043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324140044",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.850899,
+          50.473701
+        ]
+      },
+      "id": "node/3324140044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3325032196",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.914184,
+          50.460123
+        ]
+      },
+      "id": "node/3325032196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3325032318",
+        "description": "Maststation Einsiedel 02 - Ferienlager Post",
+        "operator": "TEN",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "ESD02",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.90662,
+          50.48543
+        ]
+      },
+      "id": "node/3325032318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3328220697",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.213578,
+          50.425487
+        ]
+      },
+      "id": "node/3328220697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3328220775",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.222757,
+          50.459108
+        ]
+      },
+      "id": "node/3328220775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3328220783",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.227185,
+          50.478344
+        ]
+      },
+      "id": "node/3328220783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3328220820",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.244307,
+          50.489326
+        ]
+      },
+      "id": "node/3328220820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337644554",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.168879,
+          50.442023
+        ]
+      },
+      "id": "node/3337644554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337644582",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.188313,
+          50.448489
+        ]
+      },
+      "id": "node/3337644582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3343089353",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6258802,
+          49.1910107
+        ]
+      },
+      "id": "node/3343089353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3343089355",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6147114,
+          49.1831465
+        ]
+      },
+      "id": "node/3343089355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3343089356",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6188537,
+          49.1724417
+        ]
+      },
+      "id": "node/3343089356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3343089359",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6224455,
+          49.1769813
+        ]
+      },
+      "id": "node/3343089359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348655282",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.16756,
+          50.442755
+        ]
+      },
+      "id": "node/3348655282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348658694",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.163107,
+          50.448429
+        ]
+      },
+      "id": "node/3348658694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348658704",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.197558,
+          50.456398
+        ]
+      },
+      "id": "node/3348658704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348658717",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.220256,
+          50.461256
+        ]
+      },
+      "id": "node/3348658717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348658755",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.206602,
+          50.465019
+        ]
+      },
+      "id": "node/3348658755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348658756",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.208606,
+          50.465083
+        ]
+      },
+      "id": "node/3348658756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348658790",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.287238,
+          50.507758
+        ]
+      },
+      "id": "node/3348658790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3354691643",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.904796,
+          50.485215
+        ]
+      },
+      "id": "node/3354691643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358646218",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6236404,
+          49.1844851
+        ]
+      },
+      "id": "node/3358646218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358778695",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6241232,
+          49.1561538
+        ]
+      },
+      "id": "node/3358778695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358848076",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6595798,
+          49.1458123
+        ]
+      },
+      "id": "node/3358848076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358848710",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6287352,
+          49.1544852
+        ]
+      },
+      "id": "node/3358848710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358866887",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6296225,
+          49.2284266
+        ]
+      },
+      "id": "node/3358866887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358875795",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6176406,
+          49.2325781
+        ]
+      },
+      "id": "node/3358875795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3371006925",
+        "design": "one-level",
+        "material": "steel",
+        "power": "pole",
+        "structure": "tubular",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1171988,
+          47.8854084
+        ]
+      },
+      "id": "node/3371006925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3371006949",
+        "design": "one-level",
+        "location:transition": "yes",
+        "material": "steel",
+        "power": "pole",
+        "structure": "tubular",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1088903,
+          47.8915773
+        ]
+      },
+      "id": "node/3371006949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372206995",
+        "power": "pole;substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8787856,
+          52.3451355
+        ]
+      },
+      "id": "node/3372206995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3373843644",
+        "power": "pole",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0913844,
+          47.8710659
+        ]
+      },
+      "id": "node/3373843644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3373843675",
+        "power": "pole",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0904393,
+          47.8752146
+        ]
+      },
+      "id": "node/3373843675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3375604699",
+        "power": "pole",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3459649,
+          49.5911962
+        ]
+      },
+      "id": "node/3375604699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3375604711",
+        "power": "pole",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3566276,
+          49.5952478
+        ]
+      },
+      "id": "node/3375604711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3375641026",
+        "power": "pole",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3068785,
+          49.643611
+        ]
+      },
+      "id": "node/3375641026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3375641049",
+        "material": "concrete",
+        "power": "pole",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2838349,
+          49.670332
+        ]
+      },
+      "id": "node/3375641049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3400215679",
+        "location:transition": "yes",
+        "material": "steel",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6133345,
+          51.0042886
+        ]
+      },
+      "id": "node/3400215679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3400215684",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6147337,
+          51.0122901
+        ]
+      },
+      "id": "node/3400215684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3407270282",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5866042,
+          48.2559108
+        ]
+      },
+      "id": "node/3407270282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3407600338",
+        "demolished:power": "pole",
+        "material": "concrete",
+        "pole": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.228792,
+          51.2013956
+        ]
+      },
+      "id": "node/3407600338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3407600340",
+        "material": "concrete",
+        "note": "Erdkabel zur USt Marschütz",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2285763,
+          51.2097283
+        ]
+      },
+      "id": "node/3407600340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3407600356",
+        "material": "concrete",
+        "operator": "ENSO Netz",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2347771,
+          51.2248607
+        ]
+      },
+      "id": "node/3407600356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409338373",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5075298,
+          48.2548577
+        ]
+      },
+      "id": "node/3409338373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3412424057",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5696294,
+          48.2473612
+        ]
+      },
+      "id": "node/3412424057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415470981",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8006976,
+          52.6657452
+        ]
+      },
+      "id": "node/3415470981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3416588743",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8734532,
+          48.4168619
+        ]
+      },
+      "id": "node/3416588743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3439483568",
+        "pole": "transition",
+        "telephone": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8231132,
+          51.1284733
+        ]
+      },
+      "id": "node/3439483568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3441681002",
+        "material": "metal",
+        "operator": "eon",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "3350405",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1642911,
+          52.6838559
+        ]
+      },
+      "id": "node/3441681002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3450114038",
+        "description": "Maststation Lauscha 18 - WW Lauscha",
+        "operator": "TEN",
+        "pole": "transition",
+        "power": "pole",
+        "rating": "160 kVA",
+        "ref": "LAH18",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.121609,
+          50.476017
+        ]
+      },
+      "id": "node/3450114038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3450240741",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5589503,
+          52.6986135
+        ]
+      },
+      "id": "node/3450240741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451353020",
+        "demolished:power": "pole",
+        "pole": "transition",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5231982,
+          49.1018017
+        ]
+      },
+      "id": "node/3451353020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451353034",
+        "demolished:power": "pole",
+        "pole": "transition",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5176718,
+          49.1041431
+        ]
+      },
+      "id": "node/3451353034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3454477840",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5229856,
+          52.6764364
+        ]
+      },
+      "id": "node/3454477840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458023965",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7564191,
+          52.6875922
+        ]
+      },
+      "id": "node/3458023965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3461653747",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4748033,
+          52.6638799
+        ]
+      },
+      "id": "node/3461653747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3462313293",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6996175,
+          48.2375557
+        ]
+      },
+      "id": "node/3462313293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3462313305",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6956008,
+          48.2382403
+        ]
+      },
+      "id": "node/3462313305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3478443568",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4161244,
+          52.6685693
+        ]
+      },
+      "id": "node/3478443568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3478497711",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4161468,
+          52.6689097
+        ]
+      },
+      "id": "node/3478497711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479171675",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4378995,
+          52.6680855
+        ]
+      },
+      "id": "node/3479171675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3495164266",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4533065,
+          52.760242
+        ]
+      },
+      "id": "node/3495164266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3495164321",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4533818,
+          52.7666631
+        ]
+      },
+      "id": "node/3495164321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3522054499",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "Stat. Fröhlich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5660328,
+          52.7565236
+        ]
+      },
+      "id": "node/3522054499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3530736819",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7267676,
+          48.271782
+        ]
+      },
+      "id": "node/3530736819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3541674625",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3865898,
+          51.3248032
+        ]
+      },
+      "id": "node/3541674625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3541745500",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3839808,
+          51.3262343
+        ]
+      },
+      "id": "node/3541745500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3541786703",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3894261,
+          51.3295808
+        ]
+      },
+      "id": "node/3541786703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3583434430",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6960884,
+          48.3036404
+        ]
+      },
+      "id": "node/3583434430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3584315098",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6116721,
+          48.2196285
+        ]
+      },
+      "id": "node/3584315098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3585665899",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7238469,
+          48.2184951
+        ]
+      },
+      "id": "node/3585665899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3586917995",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5659842,
+          48.2276409
+        ]
+      },
+      "id": "node/3586917995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588440876",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7553234,
+          48.2775015
+        ]
+      },
+      "id": "node/3588440876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588440877",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4897642,
+          48.2802812
+        ]
+      },
+      "id": "node/3588440877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588464399",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8097021,
+          48.2690244
+        ]
+      },
+      "id": "node/3588464399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588464413",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8214476,
+          48.2711442
+        ]
+      },
+      "id": "node/3588464413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3589957486",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8210429,
+          48.2359991
+        ]
+      },
+      "id": "node/3589957486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3589957618",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8764655,
+          48.2874003
+        ]
+      },
+      "id": "node/3589957618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3590205795",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9778196,
+          48.3323028
+        ]
+      },
+      "id": "node/3590205795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3590205803",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9744308,
+          48.3398434
+        ]
+      },
+      "id": "node/3590205803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594426579",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6811527,
+          48.2389941
+        ]
+      },
+      "id": "node/3594426579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594434215",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8136093,
+          48.3974871
+        ]
+      },
+      "id": "node/3594434215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600789393",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7424248,
+          50.1439907
+        ]
+      },
+      "id": "node/3600789393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3602629228",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7394553,
+          50.1485826
+        ]
+      },
+      "id": "node/3602629228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606222283",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6823008,
+          50.1939798
+        ]
+      },
+      "id": "node/3606222283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3611377248",
+        "line_attachment": "anchor",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8521396,
+          47.8584148
+        ]
+      },
+      "id": "node/3611377248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3620709441",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8064001,
+          50.8206554
+        ]
+      },
+      "id": "node/3620709441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3666680605",
+        "circuit:endpoint:overhead_line": "yes",
+        "material": "steel",
+        "note": "Zwei Kabelhochführungen.",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.94919,
+          49.955037
+        ]
+      },
+      "id": "node/3666680605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3666680606",
+        "circuit:endpoint:overhead_line": "yes",
+        "material": "steel",
+        "note": "Zwei Kabelhochführungen.",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9490149,
+          49.9550412
+        ]
+      },
+      "id": "node/3666680606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3669253542",
+        "pole": "transition",
+        "power": "catenary_mast",
+        "ref": "11-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5465097,
+          49.4010597
+        ]
+      },
+      "id": "node/3669253542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3692589007",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.434894,
+          49.234487
+        ]
+      },
+      "id": "node/3692589007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3708194969",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7894183,
+          48.3909957
+        ]
+      },
+      "id": "node/3708194969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3708194984",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8009453,
+          48.3822908
+        ]
+      },
+      "id": "node/3708194984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3723066536",
+        "line_attachment": "pin",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7375886,
+          48.3727345
+        ]
+      },
+      "id": "node/3723066536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3731471544",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2038969,
+          50.3964391
+        ]
+      },
+      "id": "node/3731471544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3731471552",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.202373,
+          50.396919
+        ]
+      },
+      "id": "node/3731471552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733422933",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4210035,
+          51.5224505
+        ]
+      },
+      "id": "node/3733422933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733422954",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4203071,
+          51.5269396
+        ]
+      },
+      "id": "node/3733422954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3756671642",
+        "design": "donau",
+        "material": "steel",
+        "power": "tower",
+        "structure": "lattice",
+        "tower": "transition",
+        "tower:type": "termination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4025844,
+          51.1357265
+        ]
+      },
+      "id": "node/3756671642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3757975979",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7568092,
+          50.1804395
+        ]
+      },
+      "id": "node/3757975979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3757976009",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7495468,
+          50.186075
+        ]
+      },
+      "id": "node/3757976009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770454350",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7717912,
+          50.1013621
+        ]
+      },
+      "id": "node/3770454350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770461867",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7935603,
+          50.1132242
+        ]
+      },
+      "id": "node/3770461867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770462181",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6111325,
+          50.2441154
+        ]
+      },
+      "id": "node/3770462181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782424063",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.956659,
+          50.524524
+        ]
+      },
+      "id": "node/3782424063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785024348",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6305134,
+          48.5155586
+        ]
+      },
+      "id": "node/3785024348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785037759",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6302412,
+          48.5204161
+        ]
+      },
+      "id": "node/3785037759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3812562058",
+        "line_attachment": "anchor",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole",
+        "structure": "tubular"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1363123,
+          50.1618214
+        ]
+      },
+      "id": "node/3812562058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3812628050",
+        "line_attachment": "anchor",
+        "material": "metal",
+        "pole": "transition",
+        "power": "pole",
+        "structure": "tubular"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1513716,
+          50.1508116
+        ]
+      },
+      "id": "node/3812628050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822644251",
+        "frequency": "50",
+        "material": "concrete",
+        "operator": "ENSO Netz",
+        "phases": "3",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "6032",
+        "switch": "yes",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3182717,
+          51.0930221
+        ]
+      },
+      "id": "node/3822644251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822856216",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0049494,
+          48.5312417
+        ]
+      },
+      "id": "node/3822856216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3845006392",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0083322,
+          48.5280633
+        ]
+      },
+      "id": "node/3845006392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865385040",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2669424,
+          48.1103017
+        ]
+      },
+      "id": "node/3865385040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865385043",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2666586,
+          48.1116751
+        ]
+      },
+      "id": "node/3865385043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3878554232",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6921331,
+          48.2911653
+        ]
+      },
+      "id": "node/3878554232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3878554239",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7088054,
+          48.2924888
+        ]
+      },
+      "id": "node/3878554239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3884999087",
+        "fixme": "nicht sicher, ob Ende",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.737308,
+          48.3105585
+        ]
+      },
+      "id": "node/3884999087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3891992728",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9479365,
+          49.4196705
+        ]
+      },
+      "id": "node/3891992728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898710333",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0732323,
+          53.7585894
+        ]
+      },
+      "id": "node/3898710333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3913058496",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0716776,
+          53.7586259
+        ]
+      },
+      "id": "node/3913058496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3913058504",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0738851,
+          53.7597793
+        ]
+      },
+      "id": "node/3913058504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3929566881",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8278005,
+          48.401779
+        ]
+      },
+      "id": "node/3929566881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3929566883",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8263832,
+          48.4020068
+        ]
+      },
+      "id": "node/3929566883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3953896267",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0779171,
+          53.7563194
+        ]
+      },
+      "id": "node/3953896267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3955565656",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9311773,
+          48.3238104
+        ]
+      },
+      "id": "node/3955565656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3955565661",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9244229,
+          48.3178203
+        ]
+      },
+      "id": "node/3955565661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978145036",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7334848,
+          48.2923948
+        ]
+      },
+      "id": "node/3978145036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982532014",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8954911,
+          48.3848368
+        ]
+      },
+      "id": "node/3982532014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982532021",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.896647,
+          48.3895375
+        ]
+      },
+      "id": "node/3982532021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3984369834",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8569155,
+          48.4274806
+        ]
+      },
+      "id": "node/3984369834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3984369837",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8461877,
+          48.428799
+        ]
+      },
+      "id": "node/3984369837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3996178069",
+        "location:transition": "yes",
+        "material": "concrete",
+        "pole": "transition",
+        "removed:power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9729161,
+          53.6878155
+        ]
+      },
+      "id": "node/3996178069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3996178070",
+        "location:transition": "yes",
+        "material": "concrete",
+        "pole": "transition",
+        "removed:power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9728042,
+          53.6878528
+        ]
+      },
+      "id": "node/3996178070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998094126",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.59439,
+          48.4046914
+        ]
+      },
+      "id": "node/3998094126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998094152",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6274679,
+          48.4127924
+        ]
+      },
+      "id": "node/3998094152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998094259",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6369193,
+          48.4156576
+        ]
+      },
+      "id": "node/3998094259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998094273",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6481252,
+          48.4233953
+        ]
+      },
+      "id": "node/3998094273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998094436",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.132873,
+          48.5361092
+        ]
+      },
+      "id": "node/3998094436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4003222154",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.719112,
+          48.3596444
+        ]
+      },
+      "id": "node/4003222154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004183072",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8915271,
+          48.428216
+        ]
+      },
+      "id": "node/4004183072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004578725",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0956765,
+          48.4927904
+        ]
+      },
+      "id": "node/4004578725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004578733",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0994552,
+          48.5021704
+        ]
+      },
+      "id": "node/4004578733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007419223",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8050773,
+          48.3643597
+        ]
+      },
+      "id": "node/4007419223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007419242",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8106339,
+          48.3665317
+        ]
+      },
+      "id": "node/4007419242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007419254",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8077103,
+          48.3680004
+        ]
+      },
+      "id": "node/4007419254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007419282",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8095498,
+          48.372427
+        ]
+      },
+      "id": "node/4007419282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007419289",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8055522,
+          48.3770172
+        ]
+      },
+      "id": "node/4007419289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4010156204",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7294528,
+          48.3960457
+        ]
+      },
+      "id": "node/4010156204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4020064252",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7617385,
+          48.3830991
+        ]
+      },
+      "id": "node/4020064252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4029923327",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6198869,
+          49.1840615
+        ]
+      },
+      "id": "node/4029923327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035453666",
+        "material": "steel",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8070353,
+          50.8259298
+        ]
+      },
+      "id": "node/4035453666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4041860765",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8058596,
+          48.3671949
+        ]
+      },
+      "id": "node/4041860765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4052899916",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.802786,
+          48.2839626
+        ]
+      },
+      "id": "node/4052899916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4054290625",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9645868,
+          48.3333456
+        ]
+      },
+      "id": "node/4054290625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4054290630",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9590577,
+          48.338421
+        ]
+      },
+      "id": "node/4054290630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4070746738",
+        "pole": "transition",
+        "power": "pole",
+        "switch": "yes",
+        "transformer": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.186832,
+          49.3745312
+        ]
+      },
+      "id": "node/4070746738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4077112164",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9918461,
+          48.6736028
+        ]
+      },
+      "id": "node/4077112164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096298350",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4769196,
+          51.4694114
+        ]
+      },
+      "id": "node/4096298350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096298352",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4672877,
+          51.4686913
+        ]
+      },
+      "id": "node/4096298352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096298364",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4426825,
+          51.4648295
+        ]
+      },
+      "id": "node/4096298364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096298373",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4430568,
+          51.4506303
+        ]
+      },
+      "id": "node/4096298373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096298396",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4898754,
+          51.4561303
+        ]
+      },
+      "id": "node/4096298396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096298412",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5027279,
+          51.4351569
+        ]
+      },
+      "id": "node/4096298412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096298420",
+        "note": "sah auf bing wie transition aus",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5134677,
+          51.4270408
+        ]
+      },
+      "id": "node/4096298420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4128446592",
+        "frequency": "50",
+        "operator": "Netze BW GmbH",
+        "phases": "3",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution",
+        "voltage:primary": "20000",
+        "voltage:secondary": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.580227,
+          49.2989228
+        ]
+      },
+      "id": "node/4128446592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144137580",
+        "material": "concrete",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533307,
+          52.4355322
+        ]
+      },
+      "id": "node/4144137580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153761253",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "0L1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.916904,
+          49.2314497
+        ]
+      },
+      "id": "node/4153761253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4167807104",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0272896,
+          50.1580499
+        ]
+      },
+      "id": "node/4167807104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172827329",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7142647,
+          52.2962547
+        ]
+      },
+      "id": "node/4172827329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4192160725",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4311584,
+          49.0197985
+        ]
+      },
+      "id": "node/4192160725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4192160727",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4316858,
+          49.019908
+        ]
+      },
+      "id": "node/4192160727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4192279315",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3227129,
+          51.200354
+        ]
+      },
+      "id": "node/4192279315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4192279325",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3354885,
+          51.2038481
+        ]
+      },
+      "id": "node/4192279325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4194059511",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4320605,
+          49.0200896
+        ]
+      },
+      "id": "node/4194059511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4194059513",
+        "material": "wood",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4322831,
+          49.0203165
+        ]
+      },
+      "id": "node/4194059513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209566148",
+        "power": "pole",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.692982,
+          51.006603
+        ]
+      },
+      "id": "node/4209566148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209566153",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6699857,
+          51.0258919
+        ]
+      },
+      "id": "node/4209566153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209566160",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6945143,
+          51.0299361
+        ]
+      },
+      "id": "node/4209566160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209566182",
+        "power": "pole",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8658631,
+          51.0364088
+        ]
+      },
+      "id": "node/4209566182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209566185",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.700141,
+          51.0369645
+        ]
+      },
+      "id": "node/4209566185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209568592",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6821642,
+          51.0386523
+        ]
+      },
+      "id": "node/4209568592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209568594",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6713363,
+          51.0394466
+        ]
+      },
+      "id": "node/4209568594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211787233",
+        "material": "steel",
+        "power": "pole",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2698618,
+          51.0911498
+        ]
+      },
+      "id": "node/4211787233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211787272",
+        "branch:type": "split",
+        "power": "pole",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2083834,
+          51.1280162
+        ]
+      },
+      "id": "node/4211787272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214209174",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8706888,
+          51.116589
+        ]
+      },
+      "id": "node/4214209174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214209183",
+        "power": "pole",
+        "tower": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8694933,
+          51.1292387
+        ]
+      },
+      "id": "node/4214209183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4218232601",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7665589,
+          52.2993052
+        ]
+      },
+      "id": "node/4218232601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241783408",
+        "frequency": "50",
+        "material": "concrete",
+        "operator": "ENSO Netz",
+        "phases": "3",
+        "pole": "transition",
+        "power": "pole",
+        "ref": "6269",
+        "transformer": "distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5806517,
+          51.0888734
+        ]
+      },
+      "id": "node/4241783408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4243321252",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8172691,
+          52.3160282
+        ]
+      },
+      "id": "node/4243321252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261981766",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6710348,
+          52.3558978
+        ]
+      },
+      "id": "node/4261981766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310107828",
+        "power": "pole;substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9540299,
+          51.9381769
+        ]
+      },
+      "id": "node/4310107828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377996196",
+        "pole": "transition",
+        "power": "pole",
+        "transformer": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1642631,
+          50.2490504
+        ]
+      },
+      "id": "node/4377996196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4540819794",
+        "branch:type": "split",
+        "material": "steel",
+        "operator": "Netze BW GmbH",
+        "power": "tower",
+        "structure": "lattice",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6856829,
+          49.2084525
+        ]
+      },
+      "id": "node/4540819794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714033544",
+        "height": "20",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6067531,
+          51.4231171
+        ]
+      },
+      "id": "node/4714033544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972402483",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9492794,
+          50.5505538
+        ]
+      },
+      "id": "node/4972402483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4977289004",
+        "location:transition": "yes",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7737319,
+          51.6004519
+        ]
+      },
+      "id": "node/4977289004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5010395833",
+        "man_made": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3936863,
+          51.4005363
+        ]
+      },
+      "id": "node/5010395833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299037471",
+        "branch:type": "tap",
+        "power": "portal",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999361,
+          51.2024622
+        ]
+      },
+      "id": "node/5299037471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5760792158",
+        "man_made": "mast",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.189264,
+          51.3994785
+        ]
+      },
+      "id": "node/5760792158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6104076918",
+        "man_made": "tower",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2121294,
+          52.4818422
+        ]
+      },
+      "id": "node/6104076918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6340832767",
+        "design": "portal",
+        "location:transition": "yes",
+        "power": "tower",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7163476,
+          52.6738141
+        ]
+      },
+      "id": "node/6340832767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8193222153",
+        "power": "pole;substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9549113,
+          51.9335171
+        ]
+      },
+      "id": "node/8193222153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9290972584",
+        "height": "20",
+        "man_made": "mast",
+        "material": "wood",
+        "name": "Maibaum",
+        "tower:construction": "mast",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.470636,
+          48.8140769
+        ]
+      },
+      "id": "node/9290972584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620463495",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "transition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5857055,
+          50.577681
+        ]
+      },
+      "id": "node/9620463495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11146532915",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7867689,
+          51.4820997
+        ]
+      },
+      "id": "node/11146532915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11738423824",
+        "pole": "transition",
+        "power": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6582451,
+          53.7573232
+        ]
+      },
+      "id": "node/11738423824"
+    }
+  ]
 }
